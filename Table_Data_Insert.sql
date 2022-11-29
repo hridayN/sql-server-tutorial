@@ -1,0 +1,14 @@
+--
+--INSERT INTO dbo.Gender (Name) VALUES ('Male');
+--INSERT INTO dbo.Gender (Name) VALUES ('Female');
+--INSERT INTO dbo.Gender (Name) VALUES ('Others');
+--INSERT INTO dbo.Gender (Name) VALUES ('Unknown');
+--INSERT INTO dbo.Person (Name, Email, GenderId) VALUES ('John', 'John@gmail.com', 1);
+--INSERT INTO dbo.Person (Name, Email, GenderId) VALUES ('Mary', 'Mary@gmail.com', 2);
+--INSERT INTO dbo.Person (Name, Email, GenderId) VALUES ('Simon', 'Simon@gmail.com', 1);
+--INSERT INTO dbo.Person (Name, Email, GenderId) VALUES ('Sam', 'Sam@gmail.com', 1);
+--INSERT INTO dbo.Person (Name, Email, GenderId) VALUES ('May', 'May@gmail.com', 2);
+--INSERT INTO dbo.Person (Name, Email, GenderId) VALUES ('Kenny', 'Kenny@gmail.com', 3);
+--INSERT INTO dbo.Person (Name, Email, GenderId) VALUES ('Rich', 'Rich@gmail.com', 1);
+--INSERT INTO dbo.Person (Name, Email) VALUES ('Richardson', 'Richardson@gmail.com');
+INSERT INTO dbo.Person (Name, Email) VALUES ('Robert', 'Robert@gmail.com'); 
